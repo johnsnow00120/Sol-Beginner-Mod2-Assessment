@@ -1,5 +1,4 @@
-#Solana proof Wallet integration
-
+#SOLANA DAPP
 Simple overview of use/purpose.
 
 ## Description
